@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/haowen/Documents/Decentral%20RS/fed-learning-main/code/mlruns/0/38505e0e21964434abac6e2594eeda91/artifacts
+end_time: 1746220287806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38505e0e21964434abac6e2594eeda91
+run_name: luxuriant-frog-994
+run_uuid: 38505e0e21964434abac6e2594eeda91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746220164474
+status: 3
+tags: []
+user_id: haowen

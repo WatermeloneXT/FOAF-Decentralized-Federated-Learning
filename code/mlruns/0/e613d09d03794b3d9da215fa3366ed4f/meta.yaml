@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/haowen/Documents/Decentral%20RS/fed-learning-main/code/mlruns/0/e613d09d03794b3d9da215fa3366ed4f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e613d09d03794b3d9da215fa3366ed4f
+run_name: clean-seal-930
+run_uuid: e613d09d03794b3d9da215fa3366ed4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746220384072
+status: 1
+tags: []
+user_id: haowen
